@@ -1,0 +1,12 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.86      0.81       958
+           1       0.89      0.82      0.86      1396
+
+    accuracy                           0.84      2354
+   macro avg       0.83      0.84      0.83      2354
+weighted avg       0.84      0.84      0.84      2354
+
+Percentuale di sovrapprezzo: 59.29%
+Percentuale non sovrapprezzo: 40.71%
