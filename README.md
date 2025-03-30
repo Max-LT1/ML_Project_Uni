@@ -1,0 +1,1 @@
+This was a project made for my Machine Learning exam. The program will calculate the "quality" of the computer dataset, which will be used to determine whether it is overpriced or not. More information can be found in the documents (WARNING: the majority of the documents are written in Italian).
